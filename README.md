@@ -4,7 +4,7 @@ Petridish is a Jekyll theme for research project websites. Or your personal blog
 
 ## Preview
 
-[Demo website](https://SwiftMeier.github.io/P3webpage)
+[Demo website](https://SwiftMeier.github.io/P3webpage_cme)
 
 [![screenshot](screenshot.png)](https://silkebauer.github.io/P3webpage)
 
